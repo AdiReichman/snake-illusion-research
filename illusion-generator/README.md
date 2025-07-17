@@ -2,8 +2,11 @@
 
 A Python application for creating optical illusions based on Akiyoshi Kitaoka's "Snake Illusion" with precise parameter control for research and experimentation.
 
-![Example of a generated Snake Illusion](../assets/snake-illusion-generator/Example%20of%20a%20generated%20Snake%20Illusion.png)
-*Example of a generated Snake Illusion*
+<div align="center">
+  <img src="../assets/snake-illusion-generator/Example of a generated Snake Illusion.png" width="650" alt="Example of a generated Snake Illusion">
+  <br>
+  <i>Example of a generated Snake Illusion</i>
+</div>
 
 ## Features
 
@@ -14,8 +17,11 @@ A Python application for creating optical illusions based on Akiyoshi Kitaoka's 
 - **Export Options**: High-quality PNG with parameter-embedded filenames
 - **Project Management**: Save/load configurations as JSON files
 
-![Main application interface](../assets/snake-illusion-generator/Main%20application%20interface.png)
-*Main application interface*
+<div align="center">
+  <img src="../assets/snake-illusion-generator/Main application interface.png" width="650" alt="Main application interface">
+  <br>
+  <i>Main application interface</i>
+</div>
 
 ## Installation
 
@@ -49,8 +55,11 @@ python "Snake Illusion Generator.py"
 5. **Generate**: Click "Generate Illusion" for full dual-circle pattern
 6. **Save**: Export as PNG or save project as JSON for sharing
 
-![Complete Reversal vs Classic pattern types](../assets/snake-illusion-generator/Pattern%20types.png)
-*Complete Reversal vs Classic pattern types*
+<div align="center">
+  <img src="../assets/snake-illusion-generator/Pattern types.png" width="500" alt="Complete Reversal vs Classic pattern types">
+  <br>
+  <i>Complete Reversal vs Classic pattern types</i>
+</div>
 
 ## Project Sharing
 
@@ -70,8 +79,11 @@ Use "Save Project" to export all settings, then "Load Project" to restore them e
 - **Background**: Custom color or transparent
 - **Width**: Relative stripe thickness
 
-![Live preview example](../assets/snake-illusion-generator/Live%20preview%20example.png)
-*Live preview example*
+<div align="center">
+  <img src="../assets/snake-illusion-generator/Live preview example.png" width="400" alt="Live preview example">
+  <br>
+  <i>Live preview example</i>
+</div>
 
 ## File Naming
 

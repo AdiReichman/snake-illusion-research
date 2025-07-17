@@ -1,9 +1,12 @@
-# Snake Illusion Chromatic Experiment
+# Phsychophysical Experiment
 
 A web-based psychophysical experiment for testing participants' perception of motion direction in snake illusion images. Built with jsPsych for systematic data collection and analysis.
 
-![Main experiment interface](../assets/psychophysical-experiment/experiment_interface.png)
-*Main experiment interface*
+<div align="center">
+  <img src="../assets/psychophysical-experiment/experiment_interface.png" width="650" alt="Main experiment interface">
+  <br>
+  <i>Main experiment interface</i>
+</div>
 
 ## Features
 
@@ -14,8 +17,11 @@ A web-based psychophysical experiment for testing participants' perception of mo
 - **Quality Control**: Image preloading, response validation, practice trials
 - **Customizable**: Easy stimulus set configuration and timing adjustment
 
-![Experiment flow from welcome to completion](../assets/psychophysical-experiment/Experiment%20flow%20diagram.png)
-*Experiment flow from welcome to completion*
+<div align="center">
+  <img src="../assets/psychophysical-experiment/Experiment flow diagram.png" width="500" alt="Experiment flow from welcome to completion">
+  <br>
+  <i>Experiment flow from welcome to completion</i>
+</div>
 
 ## Technical Requirements
 
