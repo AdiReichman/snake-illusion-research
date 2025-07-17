@@ -80,7 +80,7 @@ Use "Save Project" to export all settings, then "Load Project" to restore them e
 - **Width**: Relative stripe thickness
 
 <div align="center">
-  <img src="../assets/snake-illusion-generator/Live preview example.png" width="400" alt="Live preview example">
+  <img src="../assets/snake-illusion-generator/Live preview example.png" width="300" alt="Live preview example">
   <br>
   <i>Live preview example</i>
 </div>
