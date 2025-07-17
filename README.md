@@ -1,7 +1,10 @@
 # Snake Illusion Research Tools
 
-![Original Snake Illusion by Kitaoka](assets/kitaoka_original.gif)
-*Original "Rotating Snakes" illusion by Akiyoshi Kitaoka, 2003*
+<div align="center">
+  <img src="assets/kitaoka_original.gif" width="500" alt="Original Snake Illusion by Kitaoka">
+  <br>
+  <i>Original "Rotating Snakes" illusion by Akiyoshi Kitaoka</i>
+</div>
 
 A comprehensive toolkit for Snake Illusion research, developed as a final project for Electrical Engineering studies at Tel Aviv University.
 
